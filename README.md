@@ -5,6 +5,9 @@ Still writing this paper. Will share everything here after the work is submitted
 
 
 <img width="1200" height="660" alt="image" src="https://github.com/user-attachments/assets/937fa50c-da6d-4a6f-9567-12809343882d" />
+<br> <br>
+
+# Experimental Results
 
 Perplexity, energy consumption, and throughput across context lengths (512–16384 tokens) for the dense baseline and five pruning/compression
 methods. Mushroom-SVD (mine) is the only method that reduces energy per token and increases throughput relative to dense at every context length, while also matching FLAP’s perplexity recovery and outperforming LLM-Pruner.
