@@ -18,4 +18,4 @@ methods. Mushroom-SVD (mine) is the only method that reduces energy per token an
 
 Efficiency-quality trade-offs relative to the dense baseline for the layer-assignment ablation, averaged across context lengths 512–16384. (a) Energy savings vs. perplexity increase. (b) Throughput change vs. perplexity increase. Shroom-SVD and FLAP-Stem are the only methods that improve both energy and throughput over dense; cats_both is excluded due to anomalous perplexity values pending investigation.
 
-<img width="2214" height="910" alt="image" src="https://github.com/user-attachments/assets/442ac1e0-1c1a-4a42-b53f-8be8bfa5c299" />
+<img width="1800" height="743" alt="image" src="https://github.com/user-attachments/assets/442ac1e0-1c1a-4a42-b53f-8be8bfa5c299" />
