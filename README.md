@@ -1,4 +1,4 @@
-# MUSHROOM-SVD
+# MUSHROOM-SVD (Writing)
 Energy-efficient LLM pruning algorithm
 
 Still writing this paper. Will share everything here after the work is submitted. For now, an overview is shared.
